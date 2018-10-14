@@ -1,0 +1,7 @@
+body {
+	font-family: 'Lato', sans-serif;
+	background-image: url('header_bg.png');
+	background-size: 2200px 200px; 
+	background-repeat: no-repeat;
+	text-align: center; 
+}
