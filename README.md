@@ -1,3 +1,5 @@
+# Notice: Deze repository is van mijn vorige opleiding!
+
 # Over'all Grid
 Voor de opdracht van deze week ga je het toegevoegde plaatje (overAll.png) zo exact mogelijk proberen na te maken doormiddel van HTML en CSS. Omdat je het ontwerp zo exact mogelijk probeert na te maken zijn er heel concrete technische eisen, lees deze zorgvuldig door. De gebruikte plaatjes zijn bijgevoegd.
 
